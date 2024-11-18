@@ -9,7 +9,12 @@ I'm currently learning:
 - Blender with YouTube videos.
 - TypeScript with online resources.
 
+## CV
+Bellow is my current Curriculum
+[CV - 2024_2 - Luiza Heller Kroeff Plá.pdf](https://github.com/user-attachments/files/17806923/CV.-.2024_2.-.Luiza.Heller.Kroeff.Pla.pdf)
 
+
+<!--
 **LuHellerKP/LuHellerKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
