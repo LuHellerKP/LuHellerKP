@@ -9,10 +9,6 @@ I'm currently learning:
 - Blender with YouTube videos.
 - TypeScript with online resources.
 
-## CV
-Bellow is the link to my current Curriculum.
-
-<!--[CV - 2024_2 - Luiza Heller Kroeff Plá.pdf](https://github.com/user-attachments/files/17806908/CV.-.2024_2.-.Luiza.Heller.Kroeff.Pla.pdf)
 
 **LuHellerKP/LuHellerKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
