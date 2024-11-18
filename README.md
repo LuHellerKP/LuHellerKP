@@ -11,6 +11,7 @@ I'm currently learning:
 
 ## CV
 Bellow is my current Curriculum
+
 [CV - 2024_2 - Luiza Heller Kroeff Plá.pdf](https://github.com/user-attachments/files/17806923/CV.-.2024_2.-.Luiza.Heller.Kroeff.Pla.pdf)
 
 
